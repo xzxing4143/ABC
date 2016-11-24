@@ -1,0 +1,23 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "基于canvas的工作流绘图工具.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzxing4143/ABC.git"
+  },
+  "keywords": [
+    "bonc",
+    "canvas"
+  ],
+  "author": "xiezhouxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xzxing4143/ABC/issues"
+  },
+  "homepage": "https://github.com/xzxing4143/ABC#readme"
+}
