@@ -1,4 +1,5 @@
 import {OriginCalculate} from "./calculate/OriginCalculate.js";
+import {EventProxy} from "./common/EventProxy.js";
 
 var cal=new OriginCalculate("小写");
 document.write(cal.getName());
